@@ -108,7 +108,7 @@ namespace Reflections
                             output = Reflections.Sex.Man;
                             break;
                         case "Woman":
-                            output= Reflections.Sex.Man;
+                            output= Reflections.Sex.Woman;
                             break;
                     }
                     break;
